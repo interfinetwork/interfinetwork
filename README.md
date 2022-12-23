@@ -1,4 +1,4 @@
-## Hey 👋 Pleasure to have you here!
+## Hello from InterFi Network 👋
 
 <img src="https://github.com/interfinetwork/interfinetwork/blob/main/GitHub_Banner.png" alt="InterFi Network">
 
