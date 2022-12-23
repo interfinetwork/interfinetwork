@@ -1,8 +1,8 @@
-## Welcome to InterFi Network 👋
+## Hey 👋 Pleasure to have you here!
 
 <img src="https://github.com/interfinetwork/interfinetwork/blob/main/GitHub_Banner.png" alt="InterFi Network">
 
-## Useful Links 🌎
+## Useful Links 🔗
 - Visit Website: https://interfi.network
 - View Portfolio: https://github.com/interfinetwork
 - Follow Official Twitter: https://twitter.com/interfinetwork
