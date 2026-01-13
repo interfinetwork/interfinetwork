@@ -1,6 +1,6 @@
 ## Hello from InterFi Network 👋
 
-<img src="https://github.com/interfinetwork/interfinetwork/blob/main/GitHub_Banner.png" alt="InterFi Network">
+<img src="https://github.com/interfinetwork/interfinetwork/blob/main/Banner.png" alt="InterFi">
 
 ## Useful Links 🔗
 - Visit Website: https://interfi.network
