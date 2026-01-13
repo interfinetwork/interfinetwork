@@ -1,8 +1,8 @@
-## Hello from InterFi Network 👋
+## Hello, says InterFi 👋
 
 <img src="https://github.com/interfinetwork/interfinetwork/blob/main/Banner.png" alt="InterFi">
 
-## Useful Links 🔗
+## Let's Connect 🔗
 - Visit Website: https://interfi.network
 - View Portfolio: https://github.com/interfinetwork
 - Follow on X: https://x.com/interfinetwork
